@@ -5,7 +5,7 @@
 <summary>Square Every Digit</summary>
 
 
-  + [solution](Square%20Every%20Digit.py) | 
+  + [solution](/7-kyu/Square%20Every%20Digit.py) | 
   [codewars link](https://www.codewars.com/kata/546e2562b03326a88e000020)
 
 >Welcome. In this kata, you are asked to square every digit of a number and concatenate them.  
@@ -18,7 +18,7 @@
 <summary>Isograms</summary>
 
 
-  + [solution](Isograms.py) | 
+  + [solution](/7-kyu/Isograms.py) | 
   [codewars link](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
 
 > An isogram is a word that has no repeating letters, consecutive or non-consecutive. 
@@ -35,7 +35,7 @@
 <summary>Two to One</summary>
 
 
-  + [solution](Two%20to%20One.py) | 
+  + [solution](/7-kyu/Two%20to%20One.py) | 
   [codewars link](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
 
 >Take 2 strings `s1` and `s2` including only letters from `a` to `z`. Return a 
@@ -53,7 +53,7 @@ b = "xxxxyyyyabklmopq"`
 <summary>Ones and Zeros</summary>
 
 
-  + [solution](Ones%20and%20Zeros.py) | 
+  + [solution](/7-kyu/Ones%20and%20Zeros.py) | 
   [codewars link](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)    
 
 >Given an array of ones and zeroes, convert the equivalent binary value to an integer.  
@@ -71,7 +71,7 @@ Eg: `[0, 0, 0, 1]` is treated as 0001 which is the binary representation of `1`.
 <summary>Find the divisors! </summary>
 
 
-  + [solution](Find%20the%20divisors!.py) | 
+  + [solution](/7-kyu/Find%20the%20divisors!.py) | 
   [codewars link](https://www.codewars.com/kata/544aed4c4a30184e960010f4)
 
 > Create a function named `divisors`/`Divisors` that takes an integer `n > 1` and returns an array 
@@ -88,7 +88,7 @@ Eg: `[0, 0, 0, 1]` is treated as 0001 which is the binary representation of `1`.
 <summary>Binary Addition</summary>
 
 
-  + [solution](Binary%20Addition.py) | 
+  + [solution](/7-kyu/Binary%20Addition.py) | 
   [codewars link](https://www.codewars.com/kata/551f37452ff852b7bd000139)
 
 >Implement a function that adds two numbers together and returns their sum in binary. 
@@ -100,7 +100,7 @@ Eg: `[0, 0, 0, 1]` is treated as 0001 which is the binary representation of `1`.
 <summary>Growth of a Population</summary>
 
 
-  + [solution](Growth%20of%20a%20Population.py) | 
+  + [solution](/7-kyu/Growth%20of%20a%20Population.py) | 
   [codewars link](https://www.codewars.com/kata/563b662a59afc2b5120000c6)
 
 > In a small town the population is `p0` at the beginning of a year. The population regularly increases 
@@ -120,7 +120,7 @@ Eg: `[0, 0, 0, 1]` is treated as 0001 which is the binary representation of `1`.
 <summary>Get decimal part of the given number</summary>
 
 
-  + [solution](Get%20decimal%20part%20of%20the%20given%20number.py) | 
+  + [solution](/7-kyu/Get%20decimal%20part%20of%20the%20given%20number.py) | 
   [codewars link](https://www.codewars.com/kata/586e4c61aa0428f04e000069) 
 
 >Write a function that returns only the decimal part of the given number.  
@@ -135,7 +135,7 @@ Eg: `[0, 0, 0, 1]` is treated as 0001 which is the binary representation of `1`.
 <summary>Vowel Count</summary>
 
 
-  + [solution](Vowel%20Count.py) | 
+  + [solution](/7-kyu/Vowel%20Count.py) | 
   [codewars link](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 
 >Return the number (count) of vowels in the given string.  
